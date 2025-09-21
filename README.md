@@ -14,8 +14,8 @@ This repository contains a solution for the Kaggle Butterfly Classification comp
 
 ## Solution
 
-- **ResNet50_weights.h5**: Pre-trained weights for the ResNet50 model.
-- **butterfly_classification.ipynb**: Jupyter Notebook with a step-by-step solution for the classification task.
+- **best_model.pth**: Pre-trained weights for the ResNet50 model.
+- **solution.ipynb**: Jupyter Notebook with a step-by-step solution for the classification task.
 
 ## Usage
 

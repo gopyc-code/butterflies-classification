@@ -1,6 +1,6 @@
 # Butterfly Classification
 
-This repository contains a solution for the Kaggle Butterfly Classification competition, where the task is to classify images of butterflies into 50 different classes. Find more details [here](https://www.kaggle.com/competitions/butterflies-classification/overview).
+This repository contains a solution for the Kaggle Butterfly Classification [competition](https://www.kaggle.com/competitions/butterflies-classification/overview), where the task is to classify images of butterflies into 50 different classes.
 
 
 ## Overview
@@ -14,7 +14,7 @@ This repository contains a solution for the Kaggle Butterfly Classification comp
 
 ## Solution
 
-- **best_model.pth**: Pre-trained weights for the ResNet50 model.
+- **best_model.pth**: [Pre-trained weights](https://mega.nz/file/T6AhmRrS#NsSYdKXo5p9Pk1lT3tMrNeV66eehGhVx-2Wj3WG3zHA) for the ResNet50 model.
 - **solution.ipynb**: Jupyter Notebook with a step-by-step solution for the classification task.
 
 ## Usage

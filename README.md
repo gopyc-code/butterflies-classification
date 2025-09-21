@@ -20,5 +20,7 @@ This repository contains a solution for the Kaggle Butterfly Classification [com
 ## Usage
 
 1. Clone the repository.
-2. Load the Jupyter Notebook and follow the instructions to classify the butterfly images.
-3. Ensure you have the required libraries installed (e.g., TensorFlow, Keras, etc.).
+2. Download the pre-trained weights from mega.nz and the datasets from Kaggle.
+3. Move your unlabeled data to the valid folder.
+4. Run the Jupyter Notebook and follow the instructions.
+5. Ensure you have the required libraries installed (e.g., TensorFlow, Keras, etc.).

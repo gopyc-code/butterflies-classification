@@ -6,7 +6,7 @@ This repository contains a solution for the Kaggle Butterfly Classification [com
 ## Overview
 
 - **Task**: Image classification of butterflies into 50 classes.
-- **Input**: Color images of size 224x224.
+- **Input**: 4955 colour images of size 224x224.
 - **Datasets**:
   - **Train**: Contains 50 folders, each representing a class.
   - **Test**: Contains 250 images to classify.

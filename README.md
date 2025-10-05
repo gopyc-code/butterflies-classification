@@ -22,11 +22,3 @@ This repository contains a solution for the Kaggle Butterfly Classification [com
 
 - **best_model.pth**: [Pre-trained weights](https://mega.nz/file/T6AhmRrS#NsSYdKXo5p9Pk1lT3tMrNeV66eehGhVx-2Wj3WG3zHA) for the ResNet50 model.
 - **solution.ipynb**: Jupyter Notebook with a step-by-step solution for the classification task.
-
-## Usage
-
-1. Clone the repository.
-2. Download the pre-trained weights from mega.nz and the datasets from Kaggle.
-3. Move your unlabeled data to the valid folder.
-4. Run the Jupyter Notebook and follow the instructions.
-5. Ensure you have the required libraries installed (e.g., TensorFlow, Keras, etc.).
